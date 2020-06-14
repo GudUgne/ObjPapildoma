@@ -24,3 +24,5 @@ V1.0 - Pradinė failo versija, skaičiuojanti, kiek kartų pasikartoja kiekviena
 - Jei žodis buvo vartotas tik vieną kartą, jo neįrašo;
 
 - Jei žodis vartotas daugiau, jis išspausdinimas ir parodoma, kurioje eilutėje jis buvo paminėtas;
+
+- Aiškia rezultatų rodyui naudojama cross-reference tipo lentelė;
