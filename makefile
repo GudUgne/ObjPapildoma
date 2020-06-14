@@ -1,4 +1,4 @@
 main: 
-	g++ -o test main.cpp
+	g++ -o test Papildoma.cpp
 clean:
 	del *.o main
